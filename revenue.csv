@@ -1,0 +1,299 @@
+revenue_start,revenue_end,advertiser_id,business_id,program_id,revenue_gross,revenue_net,segment,contract_length,promotion_type,location,discount
+1/30/17,1/31/17,N2SDLf6kqh,qQCR2vlp,CI1SOMJe,2342,1639,Basic,3,Fun,Oklahoma,1489
+2/10/17,2/28/17,SqIzY9JbaU,JppuZB8T,PmpgYr4e,2413,1689,Basic,0,Test,Arkansas,1994
+2/16/17,2/28/17,Pac4Ejg6DF,jr67X4Fa,UW5xSDQl,1373,961,Advanced,5,Fun,Kentucky,1042
+3/6/17,3/31/17,smWHjcGJFx,3ZF36VsF,3xJpL3I1,3106,2174,Elite,9,,California,0
+3/13/17,3/31/17,slKV1fj2fr,SNZq9l5R,GMGzcQDE,2933,2053,Elite,6,,Arkansas,0
+3/21/17,3/31/17,h4RLhGYfcs,M817Q2BT,jOOJ41sz,249,174,Basic,7,,DC,0
+3/31/17,3/31/17,tY9vdYprpQ,qrLnSiuC,vWSHjcrR,3013,2109,Basic,0,Fun,Nebraska,2261
+4/4/17,4/30/17,lDD2Ui6RsZ,ZQ7xCHby,ykqOvinm,1652,1156,Basic,0,Fun,New York,1358
+4/12/17,4/30/17,lDD2Ui6RsZ,ZQ7xCHby,9WHtUxTx,664,465,Basic,0,,Oklahoma,0
+6/20/17,6/30/17,eB00XweKpk,LDfh1TXw,49EeHcbd,4,3,Basic,9,Test,Oregon,0
+7/3/17,7/31/17,6hadC264EW,T0GQS5jf,QE3MKFMk,1589,1112,Basic,0,Fun,Massachusetts,932
+7/14/17,7/31/17,MXJKE8SbnP,O8V9Gxpl,NX4ZL8mY,853,597,Basic,7,Fun,Arkansas,178
+7/27/17,7/31/17,A69ggq3ByJ,N1Wbh0Mz,xNNjkorH,3269,2288,Elite,6,,New York,0
+8/3/17,8/31/17,A69ggq3ByJ,N1Wbh0Mz,bA1xCNVx,452,316,Elite,1,Test,Arizona,0
+9/7/17,9/30/17,nNBD5ELa6N,cw9d9xX9,X8IPlB36,1793,1255,Basic,6,,Arizona,0
+9/25/17,9/30/17,nEUJVAvYQn,xAB09TAu,BVEebVH2,1731,1212,Elite,6,Fun,Nebraska,1585
+10/10/17,10/31/17,oH8mbV5dFK,lBKzVRVb,NkxxOVuO,895,627,Basic,0,Test,New York,346
+10/23/17,10/31/17,esiRypVX68,ntjiwJe3,LM3lLnvB,2273,1591,Elite,3,Fun,DC,2118
+10/25/17,10/31/17,esiRypVX68,EAsWb28C,xbWo3QVG,283,198,Elite,10,Test,New York,0
+11/17/17,11/30/17,esiRypVX68,8qYhyhIz,PnXf4Wgv,2728,1910,Elite,10,,Massachusetts,0
+1/1/18,1/31/18,QCJqyTFzAH,1A3qJYdr,p6Z5eHPu,1116,781,Elite,9,Test,California,607
+1/19/18,1/31/18,b2rZt4PDoP,fmNLdIh6,5wE33eXd,1918,1343,Elite,7,,Oklahoma,0
+2/21/18,2/28/18,0cnBX3mgCf,5fh37xO0,sTRRdwxN,2900,2030,Advanced,2,,DC,0
+3/2/18,3/31/18,lytmnwDIt1,k4u9q10w,mDV27sBh,705,494,Basic,0,Fun,Massachusetts,189
+3/30/18,3/31/18,T2QnnRvHdn,OCPpbETJ,HmMcZnZ4,551,386,Advanced,5,,New York,0
+1/4/17,1/31/17,LeEbixzib3,oFSyt76C,yi68nzSr,3311,2318,Elite,11,Test,Massachusetts,2960
+2/8/17,2/28/17,9b3Cog6hyr,agh4oJ9w,S2mXOdeX,2296,1607,Elite,12,Fun,Nebraska,2018
+2/21/17,2/28/17,HNuSQTJPWY,mKQCIBrE,ffWycJCT,3032,2122,Basic,0,Test,Arizona,2107
+3/6/17,3/31/17,gSUDYNM77W,irkL0r19,gDhKTNH5,222,155,Elite,4,Test,Nebraska,0
+3/30/17,3/31/17,gSUDYNM77W,F0RAYuM6,WeQ69ro7,3243,2270,Elite,7,Test,Nebraska,2461
+4/24/17,4/30/17,vb0e90iqck,En5iaduP,cPbniIoY,3116,2181,Elite,4,Test,DC,2897
+4/25/17,4/30/17,vb0e90iqck,aL7E9K3J,07wuWvd6,3110,2177,Elite,12,Fun,Oklahoma,2262
+4/26/17,4/30/17,3Ufb5lbTGT,an9UOyd9,A0SYruKD,140,98,Elite,8,Fun,Massachusetts,0
+4/28/17,4/30/17,1NmJKAdsIm,FCRekOBF,FvgosbX6,2950,2065,Basic,0,Fun,New York,2453
+5/29/17,5/31/17,kuBkkVjtQv,QMYIpa4Q,iRZbz9Pr,3323,2326,Basic,5,Fun,DC,2941
+5/30/17,5/31/17,Q0I6hcnOud,0fq0i8Q0,2T2HlTEc,2741,1919,Basic,0,Test,DC,1857
+7/5/17,7/31/17,BvDhAwJTfu,SObAGOQj,53mOYGYA,3207,2245,Basic,0,Test,Oklahoma,2669
+7/19/17,7/31/17,GctzlFH5vW,kNdVsNId,y1eyQGgm,2935,2055,Elite,6,,Oregon,0
+8/23/17,8/31/17,B5iXfwBkM3,QO6S0Y09,M4vCgbFz,2072,1450,Basic,1,,California,0
+9/1/17,9/30/17,zPVc3gN8Ss,RO9hsKO7,evraxeSV,618,433,Elite,5,Test,New York,0
+9/8/17,9/30/17,yqvxkg6hVm,GVT7x0Pn,npwfNItn,1334,934,Elite,8,Test,Arizona,1231
+9/15/17,9/30/17,DfExmhU5zE,WODvZP14,LI66evSb,3108,2176,Advanced,12,,Kentucky,0
+9/27/17,9/30/17,LPvh83WowU,1cdsN07b,mV4yYtU5,305,214,Basic,0,Fun,Arkansas,0
+10/17/17,10/31/17,I96BR0jWCf,ZTqLQNoR,3bvUcwCu,2911,2038,Advanced,7,,New York,0
+10/27/17,10/31/17,HAF7nCdplT,CztXdrks,KxZYmWjm,644,451,Advanced,10,,New York,0
+11/20/17,11/30/17,jpicv46btt,ZGCkzWQG,Qa2jPuY1,1196,837,Elite,10,Test,Nebraska,955
+12/6/17,12/31/17,VNQGZuFtIb,YFiPpQjv,YkEM5nye,2593,1815,Elite,1,Test,Arkansas,2290
+12/13/17,12/31/17,YjZPghxySL,RWU5h8m1,xxVy2fZo,1996,1397,Basic,10,Fun,Arkansas,1726
+2/9/18,2/28/18,OcF76TIxji,16ulZe38,BHE0HzBE,1180,826,Basic,7,Test,California,684
+2/16/18,2/28/18,yNdaMl6lht,oyhJg4XO,vEEsgxvn,2524,1767,Advanced,9,Test,Arizona,1846
+1/5/17,1/31/17,tbQZNLsQ2i,DNa8eKNJ,v7XiVysz,1090,763,Basic,3,,Kentucky,0
+1/19/17,1/31/17,H2x3Jcan7I,55tqyPrB,kkmTmEtj,1098,769,Basic,0,Fun,Oregon,612
+2/6/17,2/28/17,wRbGo9qLq6,3b5XhtqU,FQpuDcF3,1878,1315,Basic,0,,California,0
+2/20/17,2/28/17,GdQ8cnuwT3,YPKh1kKo,AqzL3XsL,166,116,Advanced,9,,Nebraska,0
+2/22/17,2/28/17,QarZSruq96,w3fFZi0y,WEaw7idZ,1227,859,Advanced,8,,New York,0
+3/23/17,3/31/17,WTkYxjaUXh,QATtyUGw,16VQmlfQ,3281,2297,Basic,0,,Arkansas,0
+3/27/17,3/31/17,c7kJyRLedZ,mzqMjcq4,gx2gWec8,542,379,Advanced,7,Test,Oregon,0
+4/12/17,4/30/17,Pb3SFEiR9r,t3jXD49N,zcX8lf7P,2462,1723,Basic,0,,New York,0
+5/31/17,5/31/17,11juvQRBPS,FknwLAzd,QMRJBEDU,1716,1201,Basic,0,Test,California,1506
+7/3/17,7/31/17,N3HD7AjRHe,GVl4h3Xw,ZWowElIr,377,264,Advanced,3,,Oregon,0
+8/2/17,8/31/17,JRbC37i5Vu,qlAuhY6J,ReyZ6Nyq,3175,2223,Elite,2,Test,Oregon,3052
+8/24/17,8/31/17,NRMmm70ubi,V3QZq9tg,geaAiUbA,950,665,Elite,7,Test,Oklahoma,0
+8/30/17,8/31/17,RID0vHBzkb,u2jtZwx4,kaDP2SpU,336,235,Basic,0,,New York,0
+10/5/17,10/31/17,zUnB1KTsju,Bab2I5l7,mlyGxQg9,583,408,Advanced,1,Fun,Nebraska,0
+10/27/17,10/31/17,YGFUcBVahU,Ib5CteeR,gwTcfSTq,1850,1295,Elite,1,Fun,Kentucky,1319
+11/17/17,11/30/17,AU0xLDK9Ra,m2XBtpnd,50Ac5FO4,2385,1670,Elite,2,,Arkansas,0
+12/20/17,12/31/17,5y3QsgDNCN,NfbTgSkL,Zp9DHDfP,979,685,Basic,1,,Arizona,0
+12/22/17,12/31/17,ZA91OIp7dY,7u4ac8ME,jg80XElb,1698,1189,Basic,0,Fun,New York,912
+1/25/18,1/31/18,T3Isn5ue2I,zUgDNDET,zUni50fD,2274,1592,Basic,0,Test,California,1519
+2/16/18,2/28/18,7K1a4y2Kiw,HDc5uve4,6WQli2T8,1458,1021,Elite,5,Test,Massachusetts,1328
+2/19/18,2/28/18,14YL8ifsqX,UQwpgOQI,7tPkdgeY,1189,832,Basic,7,Test,California,461
+3/7/18,3/31/18,EIJ7sQgDyy,h50KWrNY,naOTApck,1151,806,Elite,9,Fun,Arizona,725
+3/8/18,3/31/18,ORmC3IH8sN,5nFAhooJ,dn1xPtWg,1824,1277,Advanced,2,Fun,Arkansas,869
+3/13/18,3/31/18,LS5cMMKb6J,1q7iEWxS,tRkNFlxA,2923,2046,Basic,11,Fun,Arizona,2578
+3/22/18,3/31/18,ke1K4Peh7Y,ztevzDIu,jqF0XBow,1272,890,Basic,0,Fun,Massachusetts,665
+1/18/17,1/31/17,2K9Oao1F6e,Tc4sBLL8,frZSMrmx,2340,1638,Elite,4,Fun,Arkansas,1690
+2/2/17,2/28/17,aTS4QLmeCG,ixLUR7dD,OQ31FwhK,1359,951,Advanced,4,,Oklahoma,0
+2/24/17,2/28/17,7K1a4y2Kiw,GiEiPLR4,c704dsoe,1727,1209,Basic,0,Fun,California,949
+3/28/17,3/31/17,BhYnploE6p,P7pAe6fh,aSPYf6ns,1227,859,Advanced,4,Fun,DC,300
+5/2/17,5/31/17,atwTNDvela,6dnfQBTK,JassXz4R,1333,933,Basic,2,Test,Oregon,784
+5/3/17,5/31/17,jTrb6amGK3,W1Dr5s2l,jBvpKxqt,2511,1758,Advanced,6,Fun,DC,2263
+5/23/17,5/31/17,1HDPkJ1j7p,5aaXUgoC,yj29oEwG,2926,2048,Advanced,3,Test,Arizona,2714
+6/9/17,6/30/17,sZvZv9Jfgw,E1mrHrIi,QqrHWGft,2719,1903,Advanced,12,Test,California,2379
+6/13/17,6/30/17,ZdMIgsvmuw,cum9m3Tq,pp9DuCCP,1084,759,Basic,0,Test,Nebraska,693
+6/16/17,6/30/17,Dx3dCTLTl4,xBoEpidB,5U6wJDnp,2440,1708,Advanced,11,Fun,New York,2252
+6/23/17,6/30/17,2br0rWRQ5r,0WMLECnN,eQiM4CT1,3269,2288,Advanced,4,Test,Kentucky,2302
+7/5/17,7/31/17,F49YK13ghp,db1uilfN,AU015Pon,1318,923,Basic,0,Test,New York,702
+7/19/17,7/31/17,sfeK4IV7D6,I9dgT40l,JRKHoXvH,3120,2184,Basic,0,Fun,California,2368
+7/24/17,7/31/17,q3bqkXUjTA,5b9LFETc,Dxl1E78c,1417,992,Advanced,12,,Kentucky,0
+7/26/17,7/31/17,mvT8VIRMUp,8zsIOMqU,bvZwHA4A,2165,1516,Basic,0,Test,Arizona,1219
+9/18/17,9/30/17,O8fpOMdVrj,QSFuOjCf,lgp4fOKb,1714,1200,Basic,0,Fun,DC,1452
+10/11/17,10/31/17,jl5KKHep2M,D9Ph7S3w,erVLB6ED,2192,1534,Basic,0,Test,Massachusetts,1311
+10/24/17,10/31/17,JZTLuwxezm,vCCdCjA7,wXhLGUjP,2386,1670,Basic,5,,Arizona,0
+11/14/17,11/30/17,alIWJ9A3gJ,qktmNeUD,PILxSYD3,320,224,Advanced,3,Fun,Massachusetts,0
+12/8/17,12/31/17,rLZ2Lc0ozl,fZBcoDVO,GTTTJYl5,899,629,Basic,0,Fun,Nebraska,543
+12/12/17,12/31/17,q715GV6DwW,gPenKzti,7v1C1cbe,1295,907,Advanced,8,Fun,Arizona,812
+12/29/17,12/31/17,1E8YCya98v,dK9f1iJx,U6xTYDrn,1300,910,Elite,2,Fun,Oregon,820
+1/5/18,1/31/18,OMynNVIOLD,aTOnZ1WW,n1I7ZGXn,1094,766,Basic,12,Fun,Arkansas,258
+1/9/18,1/31/18,5qKz6HghYx,opdlNR0x,md0Dw0ir,2526,1768,Elite,3,Test,Kentucky,1580
+2/16/18,2/28/18,D9UzEnh5T2,GYsD0v6d,UrrhYKWb,2589,1812,Advanced,6,,DC,0
+1/4/17,1/31/17,m3j9AOPgIb,LuISZGxl,mtXUIoEY,1342,939,Elite,8,,Oregon,0
+2/9/17,2/28/17,e7MY4A6imQ,f8FdvzgA,tcvaooFm,1428,1000,Basic,6,Fun,DC,955
+2/14/17,2/28/17,zucNKT0gCC,AMjjvGZV,3FyssmSm,2419,1693,Basic,3,Test,Nebraska,1797
+3/7/17,3/31/17,LPG23WVObv,oZGm1bmB,dbStMu8X,3327,2329,Advanced,7,Fun,Kentucky,2478
+3/10/17,3/31/17,nhmfIbPRVf,iaOPmcfz,JfydIQg1,2992,2094,Elite,2,Test,Nebraska,2838
+4/19/17,4/30/17,x9gHztlUjQ,ySAjPXGi,zhc3Sj5U,1219,853,Basic,5,,Arkansas,0
+4/24/17,4/30/17,BhYnploE6p,kBQ54dn6,0X33zaDH,1332,932,Advanced,6,Test,DC,535
+5/1/17,5/31/17,LS5cMMKb6J,1lxAGC5w,qzwWamxo,2152,1506,Basic,7,Test,Massachusetts,1837
+5/3/17,5/31/17,ORmC3IH8sN,M3sN9agE,qXiUEV77,1263,884,Advanced,9,Fun,California,1093
+5/10/17,5/31/17,ORmC3IH8sN,0hUCPAlE,O59bLePV,2344,1641,Advanced,6,Test,DC,1841
+7/6/17,7/31/17,5y3QsgDNCN,lu0zLnJa,DPeMYlmm,590,413,Basic,11,,Nebraska,0
+7/21/17,7/31/17,T3Isn5ue2I,kF6WBKWc,TWaZJVSp,2816,1971,Basic,0,Fun,Oklahoma,1883
+8/21/17,8/31/17,q715GV6DwW,gPenKzti,FuMBDAEm,277,194,Basic,10,Test,Massachusetts,0
+10/9/17,10/31/17,1E8YCya98v,dK9f1iJx,A149QZUJ,1618,1133,Basic,0,,Massachusetts,0
+10/11/17,10/31/17,OMynNVIOLD,aTOnZ1WW,zJe3JLjq,2867,2007,Basic,6,Fun,Arkansas,1914
+10/18/17,10/31/17,5qKz6HghYx,opdlNR0x,DC7QOAXG,2050,1435,Elite,5,,Oklahoma,0
+11/20/17,11/30/17,D9UzEnh5T2,GYsD0v6d,Wh4jPcGa,2962,2073,Basic,0,Test,Arizona,2794
+11/23/17,11/30/17,m3j9AOPgIb,LuISZGxl,DIQYMzkk,1020,714,Basic,0,,Oklahoma,0
+12/18/17,12/31/17,Dx3dCTLTl4,xBoEpidB,Jmd5KYNh,145,102,Basic,0,Fun,Nebraska,0
+12/20/17,12/31/17,2br0rWRQ5r,0WMLECnN,ddX5i4cx,950,665,Basic,7,,Arizona,0
+1/3/18,1/31/18,F49YK13ghp,db1uilfN,yd2OF904,1360,952,Advanced,7,Test,Arkansas,709
+1/9/18,1/31/18,sfeK4IV7D6,I9dgT40l,UWzi14tG,3039,2127,Basic,0,,Nebraska,0
+1/10/18,1/31/18,q3bqkXUjTA,5b9LFETc,SloFfWs3,2037,1426,Basic,0,,Kentucky,0
+2/23/18,2/28/18,2K9Oao1F6e,Tc4sBLL8,8WTzW33N,2127,1489,Elite,3,,Oklahoma,0
+3/2/18,3/31/18,aTS4QLmeCG,ixLUR7dD,sjVfcSbg,2036,1425,Advanced,1,Fun,Oregon,1319
+1/30/17,1/31/17,7K1a4y2Kiw,GiEiPLR4,OhZAXU9D,994,696,Elite,9,Test,DC,249
+2/6/17,2/28/17,BhYnploE6p,P7pAe6fh,iy10d60d,984,689,Advanced,1,Fun,Arkansas,815
+2/8/17,2/28/17,atwTNDvela,6dnfQBTK,I6USFvlD,879,615,Basic,12,Test,California,718
+3/13/17,3/31/17,vb0e90iqck,En5iaduP,obvv5a3c,2220,1554,Elite,12,Fun,Oregon,1431
+3/21/17,3/31/17,vb0e90iqck,aL7E9K3J,1igxky9z,701,491,Elite,12,Fun,Arkansas,305
+4/4/17,4/30/17,3Ufb5lbTGT,an9UOyd9,yKKtjEA4,2179,1525,Elite,12,,Oregon,0
+4/13/17,4/30/17,1NmJKAdsIm,FCRekOBF,h5gJB2K1,1993,1395,Basic,0,,Kentucky,0
+5/9/17,5/31/17,kuBkkVjtQv,QMYIpa4Q,BxrweHWD,1260,882,Basic,9,Fun,Arizona,1073
+5/11/17,5/31/17,jpicv46btt,ZGCkzWQG,lchoAHxp,482,337,Elite,4,Fun,Oregon,0
+5/19/17,5/31/17,VNQGZuFtIb,YFiPpQjv,ItlaECWV,2503,1752,Elite,11,Test,Oregon,1694
+6/23/17,6/30/17,YjZPghxySL,RWU5h8m1,hsX5TFGe,1459,1021,Basic,5,Test,Arkansas,952
+7/5/17,7/31/17,OcF76TIxji,16ulZe38,nWL6p6cC,2083,1458,Basic,11,Fun,Oklahoma,1410
+8/1/17,8/31/17,yNdaMl6lht,oyhJg4XO,R7P2hQvo,3046,2132,Advanced,4,Fun,DC,2932
+8/7/17,8/31/17,tbQZNLsQ2i,DNa8eKNJ,y0lgTLvv,1553,1087,Basic,9,Fun,Arkansas,654
+8/8/17,8/31/17,H2x3Jcan7I,55tqyPrB,mWqf03d2,887,621,Basic,0,Fun,Arkansas,642
+8/14/17,8/31/17,wRbGo9qLq6,3b5XhtqU,Gx93cvYf,2346,1642,Basic,0,,Oklahoma,0
+9/27/17,9/30/17,sfeK4IV7D6,I9dgT40l,aMu62GyA,262,183,Basic,0,,Oklahoma,0
+10/24/17,10/31/17,q3bqkXUjTA,5b9LFETc,EFf6uRIY,2979,2085,Basic,1,Fun,Oklahoma,2397
+10/31/17,10/31/17,2K9Oao1F6e,Tc4sBLL8,WStqkGwV,1614,1130,Elite,9,Fun,Massachusetts,1136
+11/24/17,11/30/17,aTS4QLmeCG,ixLUR7dD,TBZnNBk1,1749,1224,Advanced,8,Fun,Arizona,1261
+1/19/18,1/31/18,7K1a4y2Kiw,GiEiPLR4,S0acA568,2923,2046,Elite,11,Fun,Arizona,2128
+1/22/18,1/31/18,BhYnploE6p,P7pAe6fh,tVTjMUfQ,3294,2306,Advanced,7,Test,Kentucky,2910
+3/9/18,3/31/18,atwTNDvela,6dnfQBTK,uYSzcjSP,2702,1891,Basic,10,Test,California,2164
+3/20/18,3/31/18,atwTNDvela,6dnfQBTK,HYnT51Ks,2608,1826,Basic,11,,Kentucky,0
+2/1/17,2/28/17,N2SDLf6kqh,qQCR2vlp,CI1SOMJe,2342,1639,Basic,5,Test,New York,1578
+3/1/17,3/31/17,SqIzY9JbaU,JppuZB8T,PmpgYr4e,2414,1690,Basic,0,,DC,0
+3/1/17,3/31/17,Pac4Ejg6DF,jr67X4Fa,UW5xSDQl,1373,961,Advanced,1,Fun,Oregon,728
+4/1/17,4/30/17,smWHjcGJFx,3ZF36VsF,3xJpL3I1,3108,2175,Elite,11,Test,California,2771
+4/1/17,4/30/17,slKV1fj2fr,SNZq9l5R,GMGzcQDE,2934,2054,Elite,3,Fun,Oregon,2249
+4/1/17,4/30/17,h4RLhGYfcs,M817Q2BT,jOOJ41sz,249,174,Basic,1,Test,Arkansas,0
+4/1/17,4/30/17,tY9vdYprpQ,qrLnSiuC,vWSHjcrR,3013,2109,Basic,0,Test,Arizona,2595
+5/1/17,5/31/17,lDD2Ui6RsZ,ZQ7xCHby,ykqOvinm,1653,1157,Basic,0,Test,DC,1236
+5/1/17,5/31/17,lDD2Ui6RsZ,ZQ7xCHby,9WHtUxTx,664,465,Basic,0,,Arizona,0
+7/1/17,7/31/17,eB00XweKpk,LDfh1TXw,49EeHcbd,4,3,Basic,8,,California,0
+8/1/17,8/31/17,6hadC264EW,T0GQS5jf,QE3MKFMk,1590,1113,Basic,0,,Nebraska,0
+8/1/17,8/31/17,MXJKE8SbnP,O8V9Gxpl,NX4ZL8mY,853,597,Basic,7,Test,Oklahoma,482
+8/1/17,8/31/17,A69ggq3ByJ,N1Wbh0Mz,xNNjkorH,3269,2289,Elite,4,,Kentucky,0
+9/1/17,9/30/17,A69ggq3ByJ,N1Wbh0Mz,bA1xCNVx,452,317,Elite,8,Test,Arizona,0
+10/1/17,10/31/17,nNBD5ELa6N,cw9d9xX9,X8IPlB36,1794,1256,Basic,8,Fun,Oregon,1340
+10/1/17,10/31/17,nEUJVAvYQn,xAB09TAu,BVEebVH2,1731,1212,Elite,6,,New York,0
+11/1/17,11/30/17,oH8mbV5dFK,lBKzVRVb,NkxxOVuO,895,627,Basic,0,,Arkansas,0
+11/1/17,11/30/17,esiRypVX68,ntjiwJe3,LM3lLnvB,2273,1591,Elite,10,Fun,Arkansas,1822
+11/1/17,11/30/17,esiRypVX68,EAsWb28C,xbWo3QVG,283,198,Elite,2,,Kentucky,0
+12/1/17,12/31/17,esiRypVX68,8qYhyhIz,PnXf4Wgv,2729,1910,Elite,10,Test,Kentucky,2433
+2/1/18,2/28/18,QCJqyTFzAH,1A3qJYdr,p6Z5eHPu,1117,782,Elite,4,Test,California,963
+2/1/18,2/28/18,b2rZt4PDoP,fmNLdIh6,5wE33eXd,1919,1343,Elite,5,Fun,Arizona,1530
+3/1/18,3/31/18,0cnBX3mgCf,5fh37xO0,sTRRdwxN,2900,2030,Advanced,7,,Massachusetts,0
+4/1/18,4/30/18,lytmnwDIt1,k4u9q10w,mDV27sBh,705,494,Basic,0,Fun,Arizona,305
+4/1/18,4/30/18,T2QnnRvHdn,OCPpbETJ,HmMcZnZ4,551,386,Advanced,7,Test,Massachusetts,0
+2/1/17,2/28/17,LeEbixzib3,oFSyt76C,yi68nzSr,3313,2319,Elite,5,Fun,Arkansas,2661
+3/1/17,3/31/17,9b3Cog6hyr,agh4oJ9w,S2mXOdeX,2297,1608,Elite,5,Test,Oregon,1481
+3/1/17,3/31/17,HNuSQTJPWY,mKQCIBrE,ffWycJCT,3032,2123,Basic,0,Fun,New York,2722
+4/1/17,4/30/17,gSUDYNM77W,irkL0r19,gDhKTNH5,222,155,Elite,5,,Kentucky,0
+4/1/17,4/30/17,gSUDYNM77W,F0RAYuM6,WeQ69ro7,3243,2270,Elite,6,Test,Kentucky,2707
+5/1/17,5/31/17,vb0e90iqck,En5iaduP,cPbniIoY,3116,2182,Elite,2,Test,Kentucky,2640
+5/1/17,5/31/17,vb0e90iqck,aL7E9K3J,07wuWvd6,3110,2177,Elite,12,Test,Arizona,2349
+5/1/17,5/31/17,3Ufb5lbTGT,an9UOyd9,A0SYruKD,140,98,Elite,9,,New York,0
+5/1/17,5/31/17,1NmJKAdsIm,FCRekOBF,FvgosbX6,2950,2065,Basic,0,Fun,Oklahoma,2482
+6/1/17,6/30/17,kuBkkVjtQv,QMYIpa4Q,iRZbz9Pr,3323,2326,Basic,12,,Oregon,0
+6/1/17,6/30/17,Q0I6hcnOud,0fq0i8Q0,2T2HlTEc,2741,1919,Basic,0,Test,Arkansas,2290
+8/1/17,8/31/17,BvDhAwJTfu,SObAGOQj,53mOYGYA,3209,2246,Basic,0,Fun,Nebraska,2344
+8/1/17,8/31/17,GctzlFH5vW,kNdVsNId,y1eyQGgm,2936,2055,Elite,2,Fun,Arkansas,2594
+9/1/17,9/30/17,B5iXfwBkM3,QO6S0Y09,M4vCgbFz,2072,1451,Basic,3,,Oklahoma,0
+10/1/17,10/31/17,zPVc3gN8Ss,RO9hsKO7,evraxeSV,618,433,Elite,4,,Kentucky,0
+10/1/17,10/31/17,yqvxkg6hVm,GVT7x0Pn,npwfNItn,1335,934,Elite,5,,Arizona,0
+10/1/17,10/31/17,DfExmhU5zE,WODvZP14,LI66evSb,3109,2176,Advanced,5,Test,Arizona,2895
+10/1/17,10/31/17,LPvh83WowU,1cdsN07b,mV4yYtU5,305,214,Basic,0,Fun,Arizona,105
+11/1/17,11/30/17,I96BR0jWCf,ZTqLQNoR,3bvUcwCu,2912,2038,Advanced,1,Fun,Kentucky,2772
+11/1/17,11/30/17,HAF7nCdplT,CztXdrks,KxZYmWjm,644,451,Advanced,10,,Kentucky,0
+12/1/17,12/31/17,jpicv46btt,ZGCkzWQG,Qa2jPuY1,1196,837,Elite,3,,Arizona,0
+1/1/18,1/31/18,VNQGZuFtIb,YFiPpQjv,YkEM5nye,2595,1816,Elite,8,,Kentucky,0
+1/1/18,1/31/18,YjZPghxySL,RWU5h8m1,xxVy2fZo,1997,1398,Basic,9,,Arkansas,0
+3/1/18,3/31/18,OcF76TIxji,16ulZe38,BHE0HzBE,1181,826,Basic,12,Fun,Arkansas,391
+3/1/18,3/31/18,yNdaMl6lht,oyhJg4XO,vEEsgxvn,2525,1767,Advanced,9,,Arkansas,0
+2/1/17,2/28/17,tbQZNLsQ2i,DNa8eKNJ,v7XiVysz,1091,763,Basic,9,Fun,Oklahoma,499
+2/1/17,2/28/17,H2x3Jcan7I,55tqyPrB,kkmTmEtj,1098,769,Basic,0,Test,DC,313
+3/1/17,3/31/17,wRbGo9qLq6,3b5XhtqU,FQpuDcF3,1879,1315,Basic,0,,DC,0
+3/1/17,3/31/17,GdQ8cnuwT3,YPKh1kKo,AqzL3XsL,166,116,Advanced,2,Fun,New York,0
+3/1/17,3/31/17,QarZSruq96,w3fFZi0y,WEaw7idZ,1227,859,Advanced,4,,Massachusetts,0
+4/1/17,4/30/17,WTkYxjaUXh,QATtyUGw,16VQmlfQ,3282,2297,Basic,0,,Oklahoma,0
+4/1/17,4/30/17,c7kJyRLedZ,mzqMjcq4,gx2gWec8,542,379,Advanced,5,Test,DC,195
+5/1/17,5/31/17,Pb3SFEiR9r,t3jXD49N,zcX8lf7P,2463,1724,Basic,0,Fun,Arkansas,1781
+6/1/17,6/30/17,11juvQRBPS,FknwLAzd,QMRJBEDU,1716,1201,Basic,0,Test,Nebraska,778
+8/1/17,8/31/17,N3HD7AjRHe,GVl4h3Xw,ZWowElIr,377,264,Advanced,10,,Oklahoma,0
+9/1/17,9/30/17,JRbC37i5Vu,qlAuhY6J,ReyZ6Nyq,3177,2224,Elite,12,Test,Oklahoma,2272
+9/1/17,9/30/17,NRMmm70ubi,V3QZq9tg,geaAiUbA,950,665,Elite,8,Test,New York,463
+9/1/17,9/30/17,RID0vHBzkb,u2jtZwx4,kaDP2SpU,336,235,Basic,0,Test,New York,0
+11/1/17,11/30/17,zUnB1KTsju,Bab2I5l7,mlyGxQg9,583,408,Advanced,5,Fun,Nebraska,181
+11/1/17,11/30/17,YGFUcBVahU,Ib5CteeR,gwTcfSTq,1850,1295,Elite,11,Fun,Oregon,1673
+12/1/17,12/31/17,AU0xLDK9Ra,m2XBtpnd,50Ac5FO4,2386,1670,Elite,8,Test,New York,2255
+1/1/18,1/31/18,5y3QsgDNCN,NfbTgSkL,Zp9DHDfP,979,685,Basic,7,,New York,0
+1/1/18,1/31/18,ZA91OIp7dY,7u4ac8ME,jg80XElb,1698,1189,Basic,0,Test,New York,1454
+2/1/18,2/28/18,T3Isn5ue2I,zUgDNDET,zUni50fD,2274,1592,Basic,0,Fun,Oregon,1894
+3/1/18,3/31/18,7K1a4y2Kiw,HDc5uve4,6WQli2T8,1458,1021,Elite,1,Test,Oklahoma,856
+3/1/18,3/31/18,14YL8ifsqX,UQwpgOQI,7tPkdgeY,1189,832,Basic,7,Fun,DC,629
+4/1/18,4/30/18,EIJ7sQgDyy,h50KWrNY,naOTApck,1152,806,Elite,7,Fun,California,826
+4/1/18,4/30/18,ORmC3IH8sN,5nFAhooJ,dn1xPtWg,1825,1277,Advanced,12,Fun,Kentucky,1056
+4/1/18,4/30/18,LS5cMMKb6J,1q7iEWxS,tRkNFlxA,2924,2047,Basic,4,,California,0
+4/1/18,4/30/18,ke1K4Peh7Y,ztevzDIu,jqF0XBow,1272,891,Basic,0,Test,Massachusetts,1021
+2/1/17,2/28/17,2K9Oao1F6e,Tc4sBLL8,frZSMrmx,2341,1638,Elite,5,Fun,Nebraska,2059
+3/1/17,3/31/17,aTS4QLmeCG,ixLUR7dD,OQ31FwhK,1360,952,Advanced,5,Fun,Arkansas,574
+3/1/17,3/31/17,7K1a4y2Kiw,GiEiPLR4,c704dsoe,1727,1209,Basic,0,Test,Arizona,1086
+4/1/17,4/30/17,BhYnploE6p,P7pAe6fh,aSPYf6ns,1227,859,Advanced,7,,DC,0
+6/1/17,6/30/17,atwTNDvela,6dnfQBTK,JassXz4R,1334,934,Basic,12,,Massachusetts,0
+6/1/17,6/30/17,jTrb6amGK3,W1Dr5s2l,jBvpKxqt,2513,1759,Advanced,1,Fun,New York,1712
+6/1/17,6/30/17,1HDPkJ1j7p,5aaXUgoC,yj29oEwG,2927,2049,Advanced,4,,DC,0
+7/1/17,7/31/17,sZvZv9Jfgw,E1mrHrIi,QqrHWGft,2720,1904,Advanced,9,,New York,0
+7/1/17,7/31/17,ZdMIgsvmuw,cum9m3Tq,pp9DuCCP,1084,759,Basic,0,,Massachusetts,0
+7/1/17,7/31/17,Dx3dCTLTl4,xBoEpidB,5U6wJDnp,2441,1709,Advanced,8,Fun,Oregon,1983
+7/1/17,7/31/17,2br0rWRQ5r,0WMLECnN,eQiM4CT1,3270,2289,Advanced,5,,Oklahoma,0
+8/1/17,8/31/17,F49YK13ghp,db1uilfN,AU015Pon,1319,923,Basic,0,,New York,0
+8/1/17,8/31/17,sfeK4IV7D6,I9dgT40l,JRKHoXvH,3121,2185,Basic,0,Test,Oregon,3007
+8/1/17,8/31/17,q3bqkXUjTA,5b9LFETc,Dxl1E78c,1417,1134,Advanced,8,Fun,Massachusetts,596
+8/1/17,8/31/17,mvT8VIRMUp,8zsIOMqU,bvZwHA4A,2165,1732,Basic,0,Fun,Oklahoma,1557
+10/1/17,10/31/17,O8fpOMdVrj,QSFuOjCf,lgp4fOKb,1714,1372,Basic,0,Test,Oregon,1051
+11/1/17,11/30/17,jl5KKHep2M,D9Ph7S3w,erVLB6ED,2193,1754,Basic,0,Fun,Massachusetts,1672
+11/1/17,11/30/17,JZTLuwxezm,vCCdCjA7,wXhLGUjP,2386,1909,Basic,3,,California,0
+12/1/17,12/31/17,alIWJ9A3gJ,qktmNeUD,PILxSYD3,320,256,Advanced,2,Fun,Arizona,0
+1/1/18,1/31/18,rLZ2Lc0ozl,fZBcoDVO,GTTTJYl5,899,720,Basic,0,,California,0
+1/1/18,1/31/18,q715GV6DwW,gPenKzti,7v1C1cbe,1296,1036,Advanced,2,Fun,Oklahoma,505
+1/1/18,1/31/18,1E8YCya98v,dK9f1iJx,U6xTYDrn,1300,1040,Elite,7,,Arizona,0
+2/1/18,2/28/18,OMynNVIOLD,aTOnZ1WW,n1I7ZGXn,1095,876,Basic,3,Fun,Massachusetts,279
+2/1/18,2/28/18,5qKz6HghYx,opdlNR0x,md0Dw0ir,2527,2022,Elite,11,Fun,DC,1914
+3/1/18,3/31/18,D9UzEnh5T2,GYsD0v6d,UrrhYKWb,2590,2072,Advanced,12,Test,Arkansas,2026
+2/1/17,2/28/17,m3j9AOPgIb,LuISZGxl,mtXUIoEY,1343,1074,Elite,12,Test,Kentucky,443
+3/1/17,3/31/17,e7MY4A6imQ,f8FdvzgA,tcvaooFm,1429,1143,Basic,7,,Arizona,0
+3/1/17,3/31/17,zucNKT0gCC,AMjjvGZV,3FyssmSm,2420,1936,Basic,3,Test,Massachusetts,2154
+4/1/17,4/30/17,LPG23WVObv,oZGm1bmB,dbStMu8X,3329,2663,Advanced,2,,DC,0
+4/1/17,4/30/17,nhmfIbPRVf,iaOPmcfz,JfydIQg1,2993,2395,Elite,7,,Arizona,0
+5/1/17,5/31/17,x9gHztlUjQ,ySAjPXGi,zhc3Sj5U,1219,975,Basic,6,,Arkansas,0
+5/1/17,5/31/17,BhYnploE6p,kBQ54dn6,0X33zaDH,1332,1066,Advanced,4,,Nebraska,0
+6/1/17,6/30/17,LS5cMMKb6J,1lxAGC5w,qzwWamxo,2154,1723,Basic,1,Test,Arkansas,1688
+6/1/17,6/30/17,ORmC3IH8sN,M3sN9agE,qXiUEV77,1264,1011,Advanced,10,Test,California,790
+6/1/17,6/30/17,ORmC3IH8sN,0hUCPAlE,O59bLePV,2345,1876,Advanced,1,,Kentucky,0
+8/1/17,8/31/17,5y3QsgDNCN,lu0zLnJa,DPeMYlmm,590,472,Basic,3,,Oklahoma,0
+8/1/17,8/31/17,T3Isn5ue2I,kF6WBKWc,TWaZJVSp,2817,2253,Basic,0,,Oregon,0
+9/1/17,9/30/17,q715GV6DwW,gPenKzti,FuMBDAEm,277,222,Basic,7,,Oregon,0
+11/1/17,11/30/17,1E8YCya98v,dK9f1iJx,A149QZUJ,1619,1295,Basic,0,Test,California,1075
+11/1/17,11/30/17,OMynNVIOLD,aTOnZ1WW,zJe3JLjq,2868,2295,Basic,12,,Oklahoma,0
+11/1/17,11/30/17,5qKz6HghYx,opdlNR0x,DC7QOAXG,2051,1846,Elite,8,Test,Kentucky,1801
+12/1/17,12/31/17,D9UzEnh5T2,GYsD0v6d,Wh4jPcGa,2963,2666,Basic,0,Fun,DC,2430
+12/1/17,12/31/17,m3j9AOPgIb,LuISZGxl,DIQYMzkk,1020,918,Basic,0,,Arizona,0
+1/1/18,1/31/18,Dx3dCTLTl4,xBoEpidB,Jmd5KYNh,145,131,Basic,0,,Nebraska,0
+1/1/18,1/31/18,2br0rWRQ5r,0WMLECnN,ddX5i4cx,950,855,Basic,8,Fun,California,715
+2/1/18,2/28/18,F49YK13ghp,db1uilfN,yd2OF904,1361,1225,Advanced,6,,Nebraska,0
+2/1/18,2/28/18,sfeK4IV7D6,I9dgT40l,UWzi14tG,3041,2736,Basic,0,,Oregon,0
+2/1/18,2/28/18,q3bqkXUjTA,5b9LFETc,SloFfWs3,2038,1834,Basic,0,,Arizona,0
+3/1/18,3/31/18,2K9Oao1F6e,Tc4sBLL8,8WTzW33N,2127,1915,Elite,9,Test,Massachusetts,1792
+4/1/18,4/30/18,aTS4QLmeCG,ixLUR7dD,sjVfcSbg,2037,1834,Advanced,8,Fun,California,1331
+2/1/17,2/28/17,7K1a4y2Kiw,GiEiPLR4,OhZAXU9D,994,895,Elite,11,Test,Kentucky,395
+3/1/17,3/31/17,BhYnploE6p,P7pAe6fh,iy10d60d,985,886,Advanced,3,,DC,0
+3/1/17,3/31/17,atwTNDvela,6dnfQBTK,I6USFvlD,879,791,Basic,4,Test,Massachusetts,17
+4/1/17,4/30/17,vb0e90iqck,En5iaduP,obvv5a3c,2221,1999,Elite,3,Fun,Kentucky,1881
+4/1/17,4/30/17,vb0e90iqck,aL7E9K3J,1igxky9z,701,631,Elite,5,,DC,0
+5/1/17,5/31/17,3Ufb5lbTGT,an9UOyd9,yKKtjEA4,2180,1962,Elite,1,,Oklahoma,0
+5/1/17,5/31/17,1NmJKAdsIm,FCRekOBF,h5gJB2K1,1994,1794,Basic,0,,New York,0
+6/1/17,6/30/17,kuBkkVjtQv,QMYIpa4Q,BxrweHWD,1261,1135,Basic,9,Fun,DC,827
+6/1/17,6/30/17,jpicv46btt,ZGCkzWQG,lchoAHxp,482,434,Elite,12,Test,Oregon,143
+6/1/17,6/30/17,VNQGZuFtIb,YFiPpQjv,ItlaECWV,2504,2253,Elite,3,Test,California,2257
+7/1/17,7/31/17,YjZPghxySL,RWU5h8m1,hsX5TFGe,1459,1313,Basic,10,Fun,Arkansas,1076
+8/1/17,8/31/17,OcF76TIxji,16ulZe38,nWL6p6cC,2084,1876,Basic,5,Fun,Kentucky,1369
+9/1/17,9/30/17,yNdaMl6lht,oyhJg4XO,R7P2hQvo,3048,2743,Advanced,12,,Arizona,0
+9/1/17,9/30/17,tbQZNLsQ2i,DNa8eKNJ,y0lgTLvv,1554,1398,Basic,4,Fun,Oregon,574
+9/1/17,9/30/17,H2x3Jcan7I,55tqyPrB,mWqf03d2,887,799,Basic,0,Test,DC,446
+9/1/17,9/30/17,wRbGo9qLq6,3b5XhtqU,Gx93cvYf,2347,2112,Basic,0,,Oklahoma,0
+10/1/17,10/31/17,sfeK4IV7D6,I9dgT40l,aMu62GyA,262,236,Basic,0,Test,Nebraska,0
+11/1/17,11/30/17,q3bqkXUjTA,5b9LFETc,EFf6uRIY,2979,2682,Basic,5,,Oregon,0
+11/1/17,11/30/17,2K9Oao1F6e,Tc4sBLL8,WStqkGwV,1614,1453,Elite,9,Fun,Massachusetts,961
+12/1/17,12/31/17,aTS4QLmeCG,ixLUR7dD,TBZnNBk1,1749,1574,Advanced,11,Fun,Massachusetts,908
+2/1/18,2/28/18,7K1a4y2Kiw,GiEiPLR4,S0acA568,2924,2631,Elite,6,Test,New York,2000
+2/1/18,2/28/18,BhYnploE6p,P7pAe6fh,tVTjMUfQ,3295,2965,Advanced,11,Test,Oklahoma,3040
+4/1/18,4/30/18,atwTNDvela,6dnfQBTK,uYSzcjSP,2703,2433,Basic,2,,Oregon,0
+4/1/18,4/30/18,atwTNDvela,6dnfQBTK,HYnT51Ks,2609,2348,Basic,8,,Arkansas,0
